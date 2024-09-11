@@ -1,0 +1,51 @@
+.text-wrapper{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text-wrapper span{
+   color:#FF5331;
+}
+.text-wrapper p{
+    font-size: 18px;
+}
+
+.cards{
+    display: flex;
+    width: 40%;
+    justify-content: space-evenly;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+
+.deal{
+    color:#FF5331;
+ }
+
+.free{
+    color: rgb(20, 138, 20);
+}
+.mok{
+    margin-top: 30px;
+    width: 34%;
+    margin-left: 160px;
+}
+.mok h3{
+    color: #494949;
+    font-size: 25px;
+    margin-top: -10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    
+}
+.card-wrapper1{
+    display: flex;
+}
+.testimonial-card{
+    display: flex;
+    margin-top: 20px;
+    width: 600px;
+    justify-content: space-around;
+    
+}

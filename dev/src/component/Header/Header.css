@@ -1,0 +1,19 @@
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+}
+.header-wrapper ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    text-underline-offset: none;
+}
+.btn-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+

@@ -1,0 +1,43 @@
+.card{
+    text-align: center;
+    width: 160px;
+    height: 195px;
+    background-color:  #FAFAFA;   
+    padding-top: 30px;
+    border-radius: 20px;
+}
+.card h3{
+    font-size:x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+.circle{
+    background-color: #FFFFFF;
+    border-radius: 100px;
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+}
+.circle img {
+    padding-top: 20px;
+}
+.cards1{
+    background-color: #FAFAFA;
+    width: 32%;
+    height: 220px;
+    margin-top: 40px;
+    padding: 8px;
+    border-radius: 20px;
+}
+.cards1 img {
+   margin-left: 250px;
+   margin-top: -30px;
+}
+.cards1 h2{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+.card-wapper{
+    display: flex;
+}

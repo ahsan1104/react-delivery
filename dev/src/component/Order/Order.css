@@ -1,0 +1,17 @@
+.num{
+    display: flex;
+    justify-content: space-around;
+}
+.num h2{
+    font-size: 50px;
+    color: #FF5331;
+}
+.order-wrapper h1{
+    text-align: center;
+    font-size: 50px;
+}
+.order-wrapper{
+    max-width: 1400px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
